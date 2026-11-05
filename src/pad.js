@@ -4,4 +4,3 @@ export const pad = (s) => ` ${s}`;
 // Night 12 v28 trigger
 // night15 v33 E3 trigger
 // night18 v34 E3 trigger
-// night28 v35 E3 trigger
